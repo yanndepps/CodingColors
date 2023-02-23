@@ -1,0 +1,18 @@
+{
+  "name": "codingcolors",
+  "version": "1.0.0",
+  "description": "* About ** Coding Colors + embarking on a new series of posts about coding color  [[https://www.bit-101.com/blog/2023/02/coding-color-01/][BIT-101]] * Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.6"
+  },
+  "devDependencies": {
+    "p5": "^1.6.0"
+  }
+}
